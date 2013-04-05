@@ -1,0 +1,5 @@
+Project: Assignment 3: Where in the World...
+Author: Jake Lipson
+Date: 3/4/13
+Files: index.html, mapstyle.css, bostonmap.js, carmen.png, waldo.png, MBTA2.png
+Description: An HTML file, a stylesheet, and a JavaScript file used to build a Google Maps page. The page displays the client's current location, as well as the closest MBTA Red Line stop and its distance from the client. It also displays every stop on the Red Line, its name, and all incoming north and southbound trains, the data for which is parsed from JSON. Finally, it parses JSON to locate Waldo and Carmen Sandiego and display their locations and distance from the client. All aspects of the assignment have been correctly implemented, though the code is somewhat ugly due to time constraints. Collaboration with Jay Wright to figure out the polyline array was needed, as was collaboration with Ming to better display the north/southbound train information. Fourteen hours were spent on this assignment.
